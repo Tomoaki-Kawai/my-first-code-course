@@ -3,6 +3,7 @@ description: my first code
 template:
   repo: my-first-code-template
   name: my-first-code
+  description: my first code
 before:
   - type: createIssue
     title: Welcome!
